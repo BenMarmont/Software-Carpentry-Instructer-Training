@@ -8,5 +8,67 @@ output: html_document
 # Preparation:
 * completed pre-workshop survey
 * note there will be 'homework' for after conclusion of the course 
-* read carpentries 2020 annual report
-    * notes verbal and non-verbal biases when teaching and their effects
+* read 'carpentries 2020 annual report'
+* read 'the science of learning'
+  
+## Carpentries Annual Report Notes:
+ * notes verbal and non-verbal biases when teaching and their effects
+    * mission (summary):        
+        * Increase global data and computational skills used best practice (inclusive, open-access, and evidence based)
+    * values: act openly, empower, value all contributions, always learning, people first, access for all, community collaboration, strength through diversity
+    * Helped with Glosario, a online global lens glossary of data science terms
+    * In 2020 carpentries spent USD$250k on instructor training
+
+## Science of Learning Notes:
+  * summary of research from cognitive science about how people learn
+    * resource for educators 
+    * not a be all and end all for new teachers, but an insight into cognition
+    * produced by a non-profit; 'Deans for Impact'
+    * Six questions are universal true in teaching, these are how the document is framed
+    
+ 1) _How do students understand new ideas?_
+    * students learn new ideas by building on those they already know
+      * a sequential curriculum is therefore essential
+      * analogies linked ideas are key, but have to be well described
+    * information must be moved from short term to long term memory
+      * students have limited short term memory
+      * if cognitive load is too much learning will stall
+      * if multiple communication channels are employed the message must be the same
+    * Prequsites should be just that for learning, not age based requirements for content
+    
+  2) _How do students learn and retain new information?_ 
+      * students remember information as it goes in
+      * practice is a requirement for learning, but it should be spaced out and interleaved with other practice
+    
+  3) _How do students solve problems?_
+      * subjects areas have sets of facts that underpin everything
+       * if these are committed to memeory work-memory is freed up
+       * learning by wrote does have its place
+     * feedback is essential 
+        * good feedback is:
+         * specific and clear
+         * focused on task, not student
+         * focused on improvement not performance
+        
+  4) _How does learning transfer to new situations in or outside of the classroom?_
+      * Problem solving requires understanding the context and structure of a problem
+        * teaching background is essential to real-world problem solving 
+     * Examples are great for new ideas, but in can be difficult when using different examples
+       * teachers can set tasks that have different surfaces but the same underlying structure 
+       * can encourage students to label sub-steps where appropriate
+       * can substitute word problems with formulas where appropriate
+      
+  5) _What motivates students to learn?_
+    * beliefs about intelligence are important predictors of behaviour at school
+      * communicating with students that they can improve their intelligence via learning and feel in control of it 
+    * pure interest learning has better long term outcomes that controlled learning  
+    * praise and reward should be employed strategically depending on motivations
+    * feeling a sense of belonging and acceptanc eimproves academic outcomes
+    
+  6) _What are the common misconceptions about how students learn and think?_
+      * Students do NOT have different learning styles
+      * Humans do NOT only use 10% of their brains
+      * People do NOT use left/right brain preferentially
+      * Novices and experts cannot think in all the same ways
+      * Cognitive development should NOT be gatekept by age
+         
