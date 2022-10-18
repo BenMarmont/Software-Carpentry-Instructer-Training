@@ -1,0 +1,12 @@
+---
+title: "Course Notes"
+author: "Ben Marmont"
+date: '2022-10-18'
+output: html_document
+---
+
+# Preparation:
+* completed pre-workshop survey
+* note there will be 'homework' for after conclusion of the course 
+* read carpentries 2020 annual report
+    * notes verbal and non-verbal biases when teaching and their effects
