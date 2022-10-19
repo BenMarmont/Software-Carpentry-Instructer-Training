@@ -46,9 +46,9 @@ output: html_document
        * learning by wrote does have its place
      * feedback is essential 
         * good feedback is:
-         * specific and clear
-         * focused on task, not student
-         * focused on improvement not performance
+           * specific and clear
+           * focused on task, not student
+           * focused on improvement not performance
         
   4) _How does learning transfer to new situations in or outside of the classroom?_
       * Problem solving requires understanding the context and structure of a problem
@@ -72,3 +72,65 @@ output: html_document
       * Novices and experts cannot think in all the same ways
       * Cognitive development should NOT be gatekept by age
          
+         
+## Preparing presentation
+  * 90 second intro early in course
+  * 3 minute presentation later in the course
+  
+90 second intro:
+* R is a free, open-source software for (mostly) all things data with a large and growing community
+ and extensive packages (free add-ons) for any number of tasks
+* before we begin please check you hae R Studio and R installed. The former is an IDE, the later is a console input.
+* the first thing we are going to do today is look at inflamation in patients so we will need to import the relevant CSV, ensure that after downloading it you unzip it so that R can read it! 
+
+# Day 1! 
+Used etherpad for collaboration, a re-skinned google doc 
+Three instructor instructors, 2 Otago, one Canterbury. PhDs.
+Please keep microphones muted and cameras on.
+Etherpad is used extensively for collaboration
+
+Schedule:
+  1000 start
+  1130 10min break
+  1230 45min lunch
+  1400 10min break
+  3 end
+
+After everyone introduced themselves entirely academic audience.
+Types of carpentry workshops:
+Software - foundational computational skills
+data - effect work with data and its lifecycle
+library - library and IT personal focused
+
+Experience levels
+* Novice (don't know what they don't know, can't formulate questions)
+    * General carpentries attendees
+* Competent Practitioner (knows enough to do everyday tasks, even though it may not be right)
+* Expert(handles unexpected things well)
+The different experience levels can be visualised with different mental models where there are greater connections between concepts as experience increases.
+
+My analogy:
+Modelling is like weeds taking over your garden, unless you make an effort to keep it in a given state they will keep growing
+  - but you want analogies to be simple and specific with no room for ambiguity
+  
+Concept maps are a useful tool for lesson planning  
+
+Mental models can easily be constructed differently than intended. Teaching is about fixing mental models.
+
+Formative assessments can be used to correct mental models.
+Formative assessments: Useful to teacher and learner, gives learner an idea about their knowledge and gaps.
+Summative assessments: Like final exam, assessment of knowledge. No scope for further practice
+
+In formative assessment if answers are spread across all questions it could be a symptom of guessing and studens not having a mental model capable of answering the question. Experts are far better and spotting and solving errors.
+ * You need to be very explicit with step by step instructions, especially regarding errors.
+
+Formative assessment is good, but there is a trade off between that and actual content.
+
+Different experience levels like different learning levels, for example, novices can find lots of facts early counterproductive, while expert
+  - If people find courses too slow they will be bored, and if its too fast the student won't return. Establishing correct mental models is essential.
+
+Novices don't necessarily have the vocabulary to google solutions to their problems.
+
+We should be careful not use dismissive tones when teaching, for example what may same trivial to us may be lessintuitive to students. For example, instead of saying just open a browser, omitting the 'just' removes the disimissive tone from the sentence.
+
+Asking what questions do you have is phrased more positively than any questions, where the latter has the tone of wanting to moving along quickly.
