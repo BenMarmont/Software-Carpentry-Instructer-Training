@@ -248,3 +248,54 @@ Feedback has four aspects; content, presentation, positive and negative. Can thi
 
 Feedback is hard, but can be made easier by asking for feedback on specifics but feedback is also a skill (giving and receiving)
 
+After the break we have practice teaching, this will be a short period - next week's sessions will be longer (there are two more after this.)
+
+## Giving and receiving feedback
+- 90sec cut off, people give feedback after.
+- Feedback given and received including from self
+- Take 5mins to make a 90sec presentation, you are not live coding!
+
+### My 90second presentation (for feedback)
+What are rmarkdown (.rmd files?)
+What is YAML?
+How do I use .rmd files?
+
+```
+# Backticks like this section specify code
+
+2 * 2
+```
+_Notes for Me:_
+
+* Positive Content:Visualization,Laid out what to do
+* Improve Content:Monotone, No intro text
+* Positive Presentation:HTML doc had a lot of other rubbish in it,Steps were clear, good signposting
+* Improve Presentation:Show the knit could be useful and different output types,Lack of enthusiasm/monotone
+
+_Notes for Katerina_
+
+* Positive Content:Had scripts to demonstrate and show what we was talking through
+* Improve Content:for the 90s prezzie cut script off after data import
+* Positive Presentation:Scripts signposted what was next
+* Improve Presentation:A lot of umming and pauses, perhaps due to pace?
+
+_Notes for Simon:_
+
+* Positive Content: Really liked the note on utf-8 and macrons for Maori and inclusivity
+* Improve Content: More resources to go with screenshot
+* Positive Presentation: Welcoming and demonstrated and talked through steps
+* Improve Presentation: A lot of mentions of having information sent to them
+
+People tent to struggle giving constructive feedback, but happy to give positive feedback.
+
+There is a homework for next week:
+Read up on organising and running workshops
+Brain dump of questions about running and planning workshops, so please prepare questions for this
+Prepare for live coding 3minutes from a carpentries module
+The 3min live coding task is to demonstrate we have learnt something about live coding. Intros are a pad place for this. Don't do the exerercises - its all about the presentation baby!
+  - find the lesson you want to teach from, pick a spot with live coding in it 
+
+Relevant links:
+https://carpentries.github.io/instructor-training/12-homework/index.html
+
+https://pad.carpentries.org/2022-10-19-online-ttt-NESI#L1367
