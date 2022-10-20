@@ -83,6 +83,15 @@ output: html_document
 * before we begin please check you hae R Studio and R installed. The former is an IDE, the later is a console input.
 * the first thing we are going to do today is look at inflamation in patients so we will need to import the relevant CSV, ensure that after downloading it you unzip it so that R can read it! 
 
+# Important links
+## Etherpad (collaborative notepad)
+https://pad.carpentries.org/2022-10-19-online-ttt-NESI
+## Schedule for four session workshops
+https://murraycadzow.github.io/2022-10-19-online-ttt-NESI/
+## Summary of each section
+https://carpentries.github.io/instructor-training/reference.html
+
+
 # Day 1! 
 ## Morning session - experience and mental models
 Used etherpad for collaboration, a re-skinned google doc 
@@ -183,3 +192,59 @@ Timing matters too, formative assessments often and frequent must rapidly follow
 Minute card (i.e. 1 minute to fill in a feedback card) offer you a way to adjust the workshop on the fly. The minute cards can include prompts.
 
 One-up-One-down: asking people for one positive and negative for the day. May feel unnatural, but normalising feedback is important.
+
+# Day Two 
+
+## Motivation and demoitivation
+
+### Motivation
+Peer interaction is a way to increase motivation, AND reduces the workload of instructors/helpers
+Ensuring you realise and address confusion maintains motivation
+Framing instructors are learners too, helps make you seem as a learner too
+Seeing results fast and then deeper learning to understand. For example, when learning R seeing a quick plot can be incredibly rewarding.
+For Loops are incredibly useful, and teaching the basics can be quick with quick results. Not a first lesson thing, but could be a signpost for whats to come and be motivating in that way.
+
+### Demotivation
+Do not harm 
+- Don't talk down to things, even if they are outside of course work i.e. MS Teams
+- Don't dive into complex or detailed technical discussions (i.e. if someone asks a deeper question, you can delay it to next break/task)
+- Admit when you don't know something (you are an imperfect learner still)
+- "Just"
+- Take over the learners keyboard. Doesn't help learner, and can be demotivating.
+- Show surprise/unawareness (about learners knowledge gaps)
+
+There are two mindsets; fixed and growth. You should encourage the growth mindset, i.e. instead of saying you're not a computer person, you're not a computer person yet.
+
+Errors are essential to learning. They help frame errors positively. 
+
+Using 'yet' helps frame things positively for students.
+
+Praise for effort/improvement is great. In carpentries, praising effort is preferable to improvement.
+
+Sticky notes or some other non-verbal signalling can be useful for learners to communicate with instructors how they are going. For example, green or red when like a traffic light.
+
+Individual questions (group questions are answered on ethernote)
+* Why do I teach? Everyone has different backgrounds and motivations, and carpentries embraces this as we all bring unique things to the table.
+* I enjoy seeing the penny drop for students, and teaching helps reinforce and develop my own understanding.
+
+## Equity, Inclusion and Accessibility
+
+Defining equity, inclusion and accessibility
+* Equality - everyone gets the same, equity - resources are shared based on situation hence is it favourable
+
+Short and more frequent classes can be more accessible for parents, any disability and juggling other commitments.
+
+Accommodation puts the onus of the individual in need, in contrast universal design makes changes for the benefit of everyone.
+
+Accessibility can be improved with simple things like making the font bigger or using a microphone if there is one in the room. Even if the presenter might be comfortable without it it can make it easier for the less-abled.
+
+### Stereotypes and systemic exlcusion
+As instructors we should be careful to not call on stereotypes. Stereotyping is demotivating, and may include unnecessary elaborating on something, different treatment to different students etc.
+
+## Teaching is a skill
+Japanese 'jugyo kenkyu' is a method of teachers observing,receiving and giving feedback. Feedback can be hard but very useful to becoming a useful teacher.
+
+Feedback has four aspects; content, presentation, positive and negative. Can think of it in a 2x2 rubric.
+
+Feedback is hard, but can be made easier by asking for feedback on specifics but feedback is also a skill (giving and receiving)
+
