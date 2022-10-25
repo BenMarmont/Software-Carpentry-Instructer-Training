@@ -299,3 +299,31 @@ Relevant links:
 https://carpentries.github.io/instructor-training/12-homework/index.html
 
 https://pad.carpentries.org/2022-10-19-online-ttt-NESI#L1367
+
+
+# Homework
+
+Read https://carpentries.github.io/instructor-training/12-homework/index.html
+     https://carpentries.org/workshops/#workshop-organising
+     https://docs.carpentries.org/topic_folders/hosts_instructors/index.html
+
+## Centrally and Self-Organised workhops
+Centrally organised workshops are facilitated by the carpentries administrators. Need to request 2-3 months beforehand. There is an admin fee.
+
+Self-organised workshops are organised by someone reaching out to an instructor who facilitates organisation. No admin fee, but they do ask you submit a form letting them know it is occurring so that instructors get credit and the workshop can be listed online. You can mix and match carpentries curriculum, but it does need to be at the core of the course.
+
+Carpentry workshop requirements
+* Teach a lessons core curriculum
+* 1+ certified instructor
+* uses carpentry curriculum
+* use carpentry surveys for evaluations
+* abide code of conduct.
+
+Instructors are not paid. Please pay their travel and lodging costs.
+
+## Teaching and Hosting
+You are encouraged to run your own workshops.
+You can charge whatever you like for workshops, this training is worth money to private industry to charge them lots. But for academics/students accessbility is core to carpentries and therefore fees should not prohibit attendance. 
+
+_Question about organising a workshop_
+* can you please elaborate on how charging/fees work? Ideally low cost or no fees to maintain accessibility, but you could charge whatever you want?

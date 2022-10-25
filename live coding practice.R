@@ -1,5 +1,6 @@
 # Live Coding Exercise Practice 
-
+# This lesson 
+# https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/#adding-columns-and-rows-in-data-frames
 # Set up ----
 
 cats <- data.frame(coat = c("calico", "black", "tabby"),
