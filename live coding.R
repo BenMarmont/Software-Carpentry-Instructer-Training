@@ -11,15 +11,24 @@ cats
 # Code ----
 
 # Adding Columns and rows to a dataset
-
-
 # Make a new vector (column) for the cats age
+age <- c(1, 2, 3, 4)
+age
 
+cbind(cats, age)
+
+nrow(cats)
+length(age)
 
 # Combine the age vector with the cat dataset we made previously
 
 
+
+
+
 # Replace old cats dataframe with new one
+
+
 
 
 # Add in your neighbours cat to the dataframe

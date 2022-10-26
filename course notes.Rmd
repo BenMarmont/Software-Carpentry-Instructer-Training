@@ -301,7 +301,7 @@ https://carpentries.github.io/instructor-training/12-homework/index.html
 https://pad.carpentries.org/2022-10-19-online-ttt-NESI#L1367
 
 
-# Homework
+# Homework ----
 
 Read https://carpentries.github.io/instructor-training/12-homework/index.html
      https://carpentries.org/workshops/#workshop-organising
@@ -327,3 +327,147 @@ You can charge whatever you like for workshops, this training is worth money to 
 
 _Question about organising a workshop_
 * can you please elaborate on how charging/fees work? Ideally low cost or no fees to maintain accessibility, but you could charge whatever you want?
+
+# Day Three ----
+
+Had a brief discussion covering general questions in the etherpad about running a workshop (h/w)
+
+## Becoming certified and checking out
+There are three tasks to be completed before you become certified.
+* Firstly you must make some contribution to one of the lesson repository
+* Participate in an online community discussion
+* Take part in an online teaching demonstration
+
+Forcing engagement in this way has been a way to preserve and grow the carpentries community.
+
+### Contributions 
+
+Keep it simple, fix a typo, comment on an issue, add a term to a glossary, choose from help wanted (signalled by maintainer needs help.)
+
+Can be anything in data carpentry, library carpentry, software carpentry, incubator or glossario.
+Don't stress about something with too much cognitive load. 
+
+GitHub isn't a requirement, you can email the carpentries team if you struggle with it.
+
+### Discussion
+
+There is an Etherpad which has the information about different discussions and their themes.
+Each meeting has different time zones attached.
+
+https://pad.carpentries.org/community-discussions#L126
+
+They are not always suitable for NZ tz, but there are many discussions. Occasionally there are carpentries facet-to-face but not often. Participation is the key point.
+
+### Demonstration
+
+There is a rubric of what you will be assessed on.
+Five minutes of demonstration (live coding). It is a presentation like format.
+Important things are ensuring you use carpentries word and the content you are drawing from.
+A lesson is a group of episodes (think modules)
+We will chose the lesson, but the examiner will choose the starting point of the lesson.
+You can navigate to lessons and see the episodes on the carpentries website
+The slots are for an hour and you give and receive feedback from other participants and instructors
+
+You shouldn't have the content on your screen as you teach as it is not good practice. You are welcome to refer to it however!
+
+There are 90 days to complete the checkout process, but these days are relatively soft. They are accommodating and the timeline is to motivate people to complete it.
+
+Make sure you have the requirements ready to go for all episodes in a lesson. That is, you have everything downloaded and dataframes etc created.
+These are not tests! It is a collaboration. 
+
+The assessors are not there to trick you, they have been their themselves.
+
+## General notes on carpentries
+You can teach slightly different components of the courses, but you need to cover specific parts of the content.
+
+There are non-teaching roles in the wider carpentries communities.
+
+## Rules of workshops
+The carpentries modules must be covered and you must have at least one instructor. You do need helpers/co-instructors.
+
+## What is live coding
+We don't use slides, instead we code in the environment in live time via a big screen, talking as we go.
+
+We encourage learners to code along with us, making it participatory
+
+Benefits: You can see that issues do occur too and the step by step nature which cannot be addressed in slides.It can reduce the gap between students and instructors. Learned experience.
+Disadvantages: Managing screens, managing split attention between what you are doing and what the class is doing or if there are learners needing help.
+
+It is ok to make mistakes, what is important is how we respond to them. Being able to teach something and being an expert is very different. Ultimately we are learners too, and growth mindset is important.
+
+Proper annunciation as you live code can help you slow down your coding to make it easier for learners to follow.
+
+Making sure that text is big enough is important, but students should be aware that their text might look different to mine based off of my preferred set up.
+
+## After Lunch
+
+Watching videos:
+https://youtu.be/bXxBeNkKmJE 
+https://youtu.be/SkPmwe_WjeY
+Content: using the head command in a for loop to see the content of a file.
+
+Standing up and moving around the room (with a mic if possible) makes it easier to consume teaching.
+
+Our live coding should be as similar as possible to students (i.e. colour of text etc) as students will pick up differences. 
+
+TURN OFF NOTIFICATIONS during teaching. One idea is have a seperate account on your laptop which ensures default environments and not connected to accounts.
+
+### Live coding practice
+
+3min presentation, ~1min feedback, one timekeeper, one presenter, one note taker. Hard and fast, not strenuous or in depth feedback. 4 min pp
+
+The four segments of feedback:
+
+Jens::
+Positive presentation:
+Error of - instead of = was a great learning experience
+Good pace and explanation
+
+Positive content:
+Great to see you load things in rather than showing code and results.
+
+
+Improve presentation:
+Give a note to google collab which is a google service of python running a jupyter notebook.
+
+
+Improve content:
+Could have files with files in rather than looking in downloads
+
+Katerina: 
+Positive Presentation:
+Great quick context at the start
+Great pace and annunciation
+
+Positive Content:
+Great flow I could follow your code and commands easily and they made sense, great to translate the commands into english.
+Great to see the slashes
+
+Improve Presentation:
+Would be good to talk at the same level about the ls-F as you did for the other commands.
+
+Improve Content:
+
+Ben feedback:
+
+Mention when I am running code, or click the run button. <- EXPLAIN THE MAGIC
+Mention that outputs are in the console 
+
+# Preparing to teach
+Metacognition is basically thinking about thinking, and is important for learning
+
+There was a note that my headers signposting what was coming was useful but might cause people to read ahead.
+
+Set checkpoints to check that people have learned/achieved an objective i.e. formative assessment. "Do you understand?" is not a formative assessment, a targetted formative assessment is a way to assess whether people have learned it.
+
+Be prepared to cut the course material in order to ensure breaks happen on time etc. But, watch out for dependencies and offer wrap up time, but also don't speed up to make time. Communicate team and learners what you will omit and how it can be researched later.
+
+Review instructor notes on lessons before the course, these are the gems of all the contributors whom have gone before.  
+
+Revisiting previous feedback can be of use also.
+
+To teach effectively you need to know who you are teaching, and think about how learning objectives can be tailored and achieved specifically for the learners.
+
+Don't stress about finishing content, finish what you finish.
+
+There is more content in the episodes what what the time it alotted.
