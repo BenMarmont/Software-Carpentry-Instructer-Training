@@ -93,6 +93,12 @@ https://carpentries.github.io/instructor-training/reference.html
 
 
 # Day 1! 
+
+Instructors
+* Murray Cadzow
+* Mik Black
+* Arindam Basu
+
 ## Morning session - experience and mental models
 Used etherpad for collaboration, a re-skinned google doc 
 Three instructor instructors, 2 Otago, one Canterbury. PhDs.
@@ -448,10 +454,10 @@ Would be good to talk at the same level about the ls-F as you did for the other 
 
 Improve Content:
 
-Ben feedback:
+_Ben feedback:_
 
 Mention when I am running code, or click the run button. <- EXPLAIN THE MAGIC
-Mention that outputs are in the console 
+Mention that outputs are in the console. 
 
 # Preparing to teach
 Metacognition is basically thinking about thinking, and is important for learning
@@ -471,3 +477,91 @@ To teach effectively you need to know who you are teaching, and think about how 
 Don't stress about finishing content, finish what you finish.
 
 There is more content in the episodes what what the time it alotted.
+
+# Day Four
+## Minute notes response
+Etherpad starts 1944
+https://pad.carpentries.org/2022-10-19-online-ttt-NESI#L1944
+The etherpad and the website will endure after the course. All links from course are in the bottom of the etherpad.
+
+You can be as engaged as you want, but establishing connections in the community could be valuable to your career. Just make sure you fulfill checkout obligations.
+
+Regarding demonstration, move at appropriate teaching place don't worry about where you get to in the material and feel free to refer to post it notes to signal understanding like you would in a real class.
+
+## Live coding round two
+Turn around of 5 minutes (3 min presentation, fast feedback)
+
+Feedback for me:
+Be careful of the use of 'c to create a list' which is another data type.
+Scrolling lots between steps can help learners follow what has been happening. 
+
+For demonstration practice picking a random point, skimming through it and 'live coding.' Familiarising yourself with the material aid your confidence when demonstrating. 
+
+You can get informal feedback, or formal feedback.
+
+Also can ask learners if text is big enough etc.
+
+## Working with your team
+* never teach alone
+* the team can consist of c(host, instructors, or helpers)
+* classroom practice
+    - start with code of conduct
+    - hands off help (participants should do things)
+    - learners use their own machines (so learners can replicate on their machine later)
+    - sticky notes and formative assessments to maintain touchpoints
+    - breaks (essential for maintaining participation)
+    - team teach/teach and assist (one person teaches on screen, the other roams)
+    
+You should communicate with your team, especially if they are not Carpentries certified instructures to ensure that you are on the same page about the content you will cover. I.e. not differentiating too much from the course content so that learners are not confused.    
+
+If you are unsure about Code of Conduct infractions you can contact a 24/7 Carpentries team which are able to investigate where investigations are not something we need to do.
+
+The carpentries will support your descision, be it cancelling the workshop, excluding the student or something less severe.
+
+If you make a workshop and website ensure that you include the main branch and have repo public.
+
+Murray Cadzow offered to help create a website if we are struggling with it.
+
+## What is an introduction?
+How to start and end a workshop
+
+### Setting the stage
+* Make sure you have the attire sufficient for the role and organisation. It is easier to start formal and down-dress as cllothing signals skills. 
+* Physical environment - how is the class arrange? Size of room and number of learners
+* Virtual environment - Do you have a waiting room or a slide. 
+* Pre-class moments - You should be the first person there not in a rush setting things up. 
+
+### Instructor and helper introductions
+* think about hows these people will introduce themselves (somethings can remain unsaid i.e. your inexeperience)
+* some sort of icebreaker can be of use
+
+### Workshop 101
+* be upfront about what you are offering
+* share schedule, logisitics and structure
+* communicate expectations (we want engagement and participation)
+* advice for success
+* whet appetite for workshop (encourage excitement in group) i.e. at the end of today you will be able to make this plot (if doing an R tutorial) 
+
+### Practicing your introduction
+Draft a 5 min introduction, then present to breakout members and present to them and give feedback.
+
+Notes for my introduction:
+Name and background (masters student at UoW studying methane mitigation in the diary industry under the umberlla term of environmental economics)
+
+Today we are covering R for Reproducible Scientific Analysis, which assumes that you have some existing knowledge of R and want to deepen your understanding. Prereqs are understanding programs, scripts and data. OK if not R expert.
+
+Not a statistical course
+
+Good to know what you are going to say in your introduction because unlike your course material it is not mapped out and you can cover a lot of introduction material in a short period of time (unlike material which is SLOOOOOW)
+* bullet points for these things would be great for me as a presenter
+
+## Making a smooth landing
+Make sure you stop early to allow reflection and people to finish on time. Offer people the links/knowledge to find the rest of the content not covered. There is a lot of content in any given lesson, don't worry if you cannot address them all.
+
+Telling people what to do with their scripts at the end can be useful, i.e. saving scripts and closing R.
+
+Jens raised the question of if there is something you can put on LinkedIn, Murray will investigate this.
+
+One up, one down at the end
+* Good: Use of breakout
+* Improve: More signposting (I know there is a schedule but a lot of windows to juggle)
